@@ -3,7 +3,7 @@ This project is a landing page for Nothing, a London-based tech company creating
 
 # Technologies Used
 - HTML5
-- SCSS
+- SCSS + Flexbox
 - GitHub Pages for deployment
 
 # Preview
